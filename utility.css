@@ -1,0 +1,16 @@
+.justify-content\:space-between > * {    
+    justify-content: space-between;
+}
+
+
+
+
+@media only all and (max-width: 561px) {
+		.mobile\:center > * {
+			justify-content: space-around;
+
+		}
+		
+}
+
+
